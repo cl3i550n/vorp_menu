@@ -264,7 +264,7 @@ i {
 	border-left: 4px solid #272733;
 }
 
-@media (min-width:1080px) {
+@media screen and (min-width: 1920px) and (max-height: 1080px) {
 
 	.menu {
 		margin-top: -1%;
@@ -282,7 +282,7 @@ i {
 
 }
 
-@media (min-width:3840px) {
+@media screen and (min-width: 3840px) and (max-height: 2160px) {
 
 	.menu {
 
